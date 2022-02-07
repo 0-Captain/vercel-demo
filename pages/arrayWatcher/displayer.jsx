@@ -11,3 +11,5 @@ export function Displayer() {
     </div>
   );
 }
+
+export default Displayer;

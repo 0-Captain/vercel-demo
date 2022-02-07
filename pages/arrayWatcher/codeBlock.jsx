@@ -64,3 +64,5 @@ export function CodeBlock() {
     </div>
   );
 }
+
+export default CodeBlock;
